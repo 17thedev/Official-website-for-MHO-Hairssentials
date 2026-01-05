@@ -18,4 +18,4 @@ https://mhohairssentials.com
 - Cloudflare Pages
 
 ## Author
-Built by Hassan
+Built by cyber17
